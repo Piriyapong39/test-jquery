@@ -1,0 +1,9 @@
+.click-me-btn{
+    background-color: #3333;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.click-me-btn:hover{
+    background-color: lightblue;
+    padding: 4px;
+}
