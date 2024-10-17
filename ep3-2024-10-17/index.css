@@ -1,0 +1,56 @@
+.con-animation{
+    background-color: purple;
+    height: 100px;
+    position: relative; 
+    width: 600px;     
+    overflow: hidden;
+    
+}
+.con-animation-1{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    position: absolute;  
+    left: 0;        
+}
+
+.click-me-btn{
+    margin-top: 10px;
+    background-color: rgb(172, 112, 172);
+    cursor: pointer;
+    padding: 4px;
+    color: white;
+    border-radius: 3px;
+}
+
+.click-me-btn:hover{
+    margin-top: 10px;
+    background-color: rgb(124, 65, 124);
+    cursor: pointer;
+    padding: 7px;
+    color: white;
+    border-radius: 3px;
+}
+
+.div-test{
+    height: 80px;
+    width: 80px;
+    background-color: red;
+    border-radius: 5px;
+    position: relative;
+}
+
+.div-test-2{
+    width: 80px;
+    height: 80px;
+    background-color: lightblue;
+    border-radius: 5px;
+    position: relative;
+}
+
+.div-test-3{
+    width: 250px;
+    height: 250px;
+    background-color: blanchedalmond;
+    position: relative;
+}

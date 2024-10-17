@@ -1,0 +1,48 @@
+
+.topic {
+    text-align: center;
+}
+
+body{
+    text-align: center;
+}
+
+.click-btn{
+    background-color: lightgreen;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 12px;
+}
+
+.container-0{
+    margin-top: 50px;
+    height: 400px;
+    background-color: red;
+    align-items: center;
+}
+
+.container-1{
+    height: 50px;
+    margin-top: 20px;
+    background-color: green;
+}
+
+.container-flip{
+    margin-top: 50px;
+}
+
+.container-flip-1{
+    cursor: pointer;
+    background-color: lightblue;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.container-flip-2{
+    background-color: lightblue;
+    padding: 50px;
+    border: 1px solid black;
+    display: none;
+}
+
+
